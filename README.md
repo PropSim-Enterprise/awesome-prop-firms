@@ -27,6 +27,7 @@ Maintained by [PropSim](https://propsim.markets/?utm_source=github&utm_medium=re
 - [Open-source tools](#open-source-tools)
 - [For prop traders](#for-prop-traders)
   - [Comparison and review sites](#comparison-and-review-sites)
+  - [Prop firm coupon codes](#prop-firm-coupon-codes)
   - [Rules, risk and calendars](#rules-risk-and-calendars)
   - [Journals and analytics](#journals-and-analytics)
 - [PropSim resources](#propsim-resources)
@@ -176,6 +177,7 @@ None of this is legal advice. The rules for prop firms differ by country, so get
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) - TradingView's HTML5 canvas library for interactive financial charts.
 - [NautilusTrader](https://github.com/nautechsystems/nautilus_trader) - Event-driven trading engine with a Rust core, for backtesting and live trading.
 - [OpenApiPy](https://github.com/spotware/OpenApiPy) - Spotware's Python package for the cTrader Open API.
+- [OpenCharts](https://github.com/dylanpersonguy/OpenCharts) - Self-hosted trading terminal that runs in the browser, built on Lightweight Charts, with drawing tools, indicators, a depth-of-market ladder and a paper-trading engine.
 - [Prop Firm Calculators](https://github.com/PropSim-Enterprise/prop-firm-calculators) - Drawdown, position size, cost-to-get-funded, payout and prop firm revenue calculators from PropSim, with tested formulas and an embeddable mode.
 - [Prop Firm Landing Page Templates](https://github.com/PropSim-Enterprise/prop-firm-landing-page-templates) - Ten React and Tailwind CSS landing page templates for prop firms from PropSim, with challenge pricing, rules tables, an FAQ and matching sign-up and sign-in pages built from one config file.
 - [Prop Firm Pass Rates](https://github.com/PropSim-Enterprise/prop-firm-pass-rates) - Weekly open dataset (CSV and JSON, CC BY 4.0) from PropSim of challenge pass rates, failure causes and account survival on firms using its platform.
@@ -195,6 +197,12 @@ Many comparison sites carry discount codes or partner offers from the firms they
 - [Prop Firm Compare](https://propfirm.compare/) - Comparison of futures prop firms by drawdown rules, profit splits, payouts and funding size.
 - [Prop Firm Match](https://propfirmmatch.com/) - Prop firm comparison site with filters for platforms, assets and payout methods, plus trader reviews.
 - [PropFirmMap](https://propfirmmap.com/) - Side-by-side comparison of prop trading firms with reviews, ratings and pricing.
+
+### Prop firm coupon codes
+
+Discount codes change often. Check a code's terms on the firm's own checkout before you pay.
+
+- [Prop firm coupon codes](https://propsim.markets/prop-firm-coupon-codes?utm_source=github&utm_medium=readme&utm_campaign=awesome-prop-firms) - Directory from PropSim of current discount codes for more than 100 prop firms, with each code labelled by how sure the check is that it works and the date the codes were last checked.
 
 ### Rules, risk and calendars
 

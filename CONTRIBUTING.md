@@ -26,7 +26,7 @@ One pull request can add several entries, but keep each one on its own line.
 - **Real and live.** The link must load, and the product must be available today. A link checker runs on every pull request and every week, and entries whose links die are removed.
 - **Relevant.** It should help someone start or run a prop firm, or help a prop trader. Generic tools with no connection to prop trading are left out.
 - **Neutral.** Describe what the product is, in plain words, from its own website. Don't write "best", "leading", "#1", "trusted by" or anything else that ranks it or can't be checked.
-- **No prices.** Prices change and go stale. Leave them out, along with discount codes and promotions.
+- **No prices.** Prices change and go stale. Leave them out of descriptions, along with discount codes and promotions. Sites that list coupon codes go in the "Prop firm coupon codes" section, never in another entry's description.
 - **No affiliate, referral or tracking links.** Don't add `ref`, `aff`, `utm_` or similar parameters. Pull requests with affiliate links are closed.
 - **Reputable sources for reading.** Articles in the legal and industry section should come from regulators, courts, law firms or established news outlets.
 - **No individual prop firms.** This list covers the tools, services and reading around prop firms, not the firms themselves. Comparison and review sites are listed in the traders' section instead.
