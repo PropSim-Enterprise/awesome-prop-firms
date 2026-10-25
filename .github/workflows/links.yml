@@ -1,0 +1,35 @@
+name: Check links
+
+on:
+  pull_request:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    name: Dead links in README.md
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Some sites on the list (for example the CFTC, Persona and Prop Firm Match)
+      # sit behind bot protection that answers automated requests with 403 or 429.
+      # Those codes are accepted so the check fails only on links that are really
+      # broken: 404s, DNS failures, timeouts and other errors.
+      - name: Check links with lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: true
+          args: >-
+            --no-progress
+            --max-retries 3
+            --retry-wait-time 10
+            --timeout 30
+            --accept '100..=103,200..=299,403,429'
+            --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36'
+            README.md
