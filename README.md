@@ -220,6 +220,7 @@ Discount codes change often. Check a code's terms on the firm's own checkout bef
 - [Tradervue](https://www.tradervue.com/) - Trading journal for stocks, options, futures and forex that finds patterns in your trading.
 - [TradesViz](https://www.tradesviz.com/) - Trading journal and analytics platform with trade statistics and trade simulation.
 - [TradeZella](https://www.tradezella.com/) - Trading journal with broker imports, setup tagging, analytics reports and session review.
+- [TradeHarbor](https://tradeharbor.co/) - Trading journal for futures prop traders that imports trades from futures platforms and tracks each firm's drawdown, daily loss limit and consistency rules.
 
 ## PropSim resources
 
