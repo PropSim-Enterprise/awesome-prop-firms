@@ -175,6 +175,7 @@ None of this is legal advice. The rules for prop firms differ by country, so get
 
 - [Lean](https://github.com/QuantConnect/Lean) - QuantConnect's algorithmic trading engine in Python and C#, for backtesting and live trading.
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) - TradingView's HTML5 canvas library for interactive financial charts.
+- [MT5 Daily Loss Lock Lite](https://github.com/SpectarFX/mt5-daily-loss-lock-lite) - Open-source MetaTrader 5 expert advisor that closes positions and pending orders and keeps the trading day locked once a daily loss limit set by the trader is reached.
 - [NautilusTrader](https://github.com/nautechsystems/nautilus_trader) - Event-driven trading engine with a Rust core, for backtesting and live trading.
 - [OpenApiPy](https://github.com/spotware/OpenApiPy) - Spotware's Python package for the cTrader Open API.
 - [OpenCharts](https://github.com/dylanpersonguy/OpenCharts) - Self-hosted trading terminal that runs in the browser, built on Lightweight Charts, with drawing tools, indicators, a depth-of-market ladder and a paper-trading engine.
@@ -209,6 +210,7 @@ Discount codes change often. Check a code's terms on the firm's own checkout bef
 - [Babypips Position Size Calculator](https://www.babypips.com/tools/position-size-calculator) - Calculator for position size from account balance, risk percentage and stop-loss distance.
 - [Forex Factory Calendar](https://www.forexfactory.com/calendar) - Forex-focused economic calendar of scheduled market-moving events, for planning around news-trading rules.
 - [Maximum drawdown on Investopedia](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp) - Explainer of maximum drawdown and how it is calculated.
+- [Spectar FX Daily Loss Calculator](https://spectarfx.com/daily-loss-calculator) - Calculator for the balance or equity at which a prop firm daily loss limit is reached, measured from the initial balance, the start-of-day balance or the start-of-day equity.
 
 ### Journals and analytics
 
