@@ -209,6 +209,7 @@ Discount codes change often. Check a code's terms on the firm's own checkout bef
 - [Babypips Position Size Calculator](https://www.babypips.com/tools/position-size-calculator) - Calculator for position size from account balance, risk percentage and stop-loss distance.
 - [Forex Factory Calendar](https://www.forexfactory.com/calendar) - Forex-focused economic calendar of scheduled market-moving events, for planning around news-trading rules.
 - [Maximum drawdown on Investopedia](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp) - Explainer of maximum drawdown and how it is calculated.
+- [Strata](https://stratatester.com/?src=gh) - Web tool that replays a trade history under FTMO, The5ers and FundedNext challenge rules, with Monte Carlo pass chance per lot size.
 
 ### Journals and analytics
 
